@@ -89,3 +89,9 @@ const filter = function () {
 }
 
 addEventOnElement(filterBtns, "click", filter)
+
+
+
+
+
+
